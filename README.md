@@ -17,19 +17,19 @@ uploaded media, and interact with them by liking or unliking.
 
 
 ## Technologies
-----------------------------------------     Backend Server   -----------------------------------------------------
+----------------------------------------     Backend Server   -----------------------------------------------------  
 technology -->  Node.js  
 used packages -->  multer, express, mongoose, cors, axios
 
------------------------------------------     Database    -------------------------------------------------------
+-----------------------------------------     Database    -------------------------------------------------------  
 technology -->  MongoDB  
 
------------------------------------------   Mobile Applications   -------------------------------------------------
+-----------------------------------------   Mobile Applications   -------------------------------------------------  
 technologies -->  React Native 
 used packages --> axios, expo, expo-image-picker, expo-av
 front-end libraries --> React Native Paper
 
------------------------------------------    Website   ------------------------------------------------
+-----------------------------------------    Website   -------------------------------------------------------  
 technologies -->  React Native 
 used packages --> axios 
 front-end libraries --> MUI material-ui
@@ -41,11 +41,11 @@ Each uploaded media file  is assigned a unique filename along with other relevan
 #### Database Schema:
 The database schema includes the following fields for each media file:
 
-###### media:
+##### media:
  unique filename assigned to the media file.
-###### Like Flag:
+##### Like Flag:
  Indicates whether users have liked or unliked the post.
-###### MediaType:
+##### MediaType:
  Specifies whether the media file is a video or an image.
 
 ## Getting Started
