@@ -1,0 +1,28 @@
+.like-icon {
+    color: #ff69b4;
+    /* Pink color */
+}
+
+.dislike-icon {
+    color: grey;
+    /* Grey color */
+}
+
+.uploadBtn {
+    position: fixed !important;
+    bottom: 20px !important;
+    right: 20px !important;
+    z-index: 999 !important;
+}
+
+.VisuallyHiddenInput {
+    clip: rect(0 0 0 0);
+    clipPath: inset(50%);
+    height: 1;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    whiteSpace: nowrap;
+    width: 1;
+}
