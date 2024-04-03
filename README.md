@@ -25,14 +25,14 @@ used packages -->  multer, express, mongoose, cors, axios
 technology -->  MongoDB  
 
 -----------------------------------------   Mobile Applications   -------------------------------------------------  
-technologies -->  React Native 
-used packages --> axios, expo, expo-image-picker, expo-av
-front-end libraries --> React Native Paper
+technologies -->  React Native   
+used packages --> axios, expo, expo-image-picker, expo-av  
+front-end libraries --> React Native Paper  
 
 -----------------------------------------    Website   -------------------------------------------------------  
-technologies -->  React Native 
-used packages --> axios 
-front-end libraries --> MUI material-ui
+technologies -->  React Native   
+used packages --> axios   
+front-end libraries --> MUI material-ui  
 
 ## Database 
 images are stored in images folder while videos are stored in videos folder on the server.
